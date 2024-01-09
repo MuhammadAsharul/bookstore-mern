@@ -1,8 +1,16 @@
-# React + Vite
+# MERN Book Collection
+![MERN Logo](https://raw.githubusercontent.com/username/repo/master/path/to/logo.png)
+This project is a simple application for managing book collections using MERN technology (MongoDB, Express.js, React, Node.js).
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Features
 
-Currently, two official plugins are available:
+- [x] Add new books to the collection
+- View the list of books in the collection
+- Remove books from the collection
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technology
+
+- MongoDB as database
+- Express.js as back-end framework
+- React for front-end development
+- Node.js as runtime environment
