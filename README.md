@@ -1,5 +1,5 @@
 # MERN Book Collection
-![MERN Logo](https://raw.githubusercontent.com/username/repo/master/path/to/logo.png)
+MongoDB, Expressjs, React/Redux, Nodejs
 This project is a simple application for managing book collections using MERN technology (MongoDB, Express.js, React, Node.js).
 
 ## Features
